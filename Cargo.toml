@@ -2,3 +2,8 @@
 name = "codifyle"
 version = "0.0.1"
 authors = ["Brandon Sanderson <bas.bsanders@gmail.com>"]
+
+documentation = "http://brandonson.github.io/codifyle-rs"
+description = "A set of utilities for file-based unit testing"
+repository = "https://github.com/brandonson/codifyle-rs" 
+license = "MIT"
